@@ -8,7 +8,7 @@ data science project portfolio
 * Built a forecast and analyzed the accuracy and adequacy of the obtained models.
 * Visualized the dynamics of COVID-19 infection spread on interactive maps
 
-![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/pivot%20table.png)
+![oivot table](https://github.com/MusaMasango/Project-portfolio/blob/main/images/pivot%20table.png)
 ![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/covid%20cases.png)
 ![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/correlation%20matrix.png)
 
