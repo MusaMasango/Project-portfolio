@@ -24,5 +24,5 @@ I was able to model the loan_status of the customers with a 83% accuracy after m
 ![](/images/correlation plot.png)
 ![](/images/credit history.png)
 ![](/images/loan amount.png)
-![](/images/applicant income.png)
+![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/applicant%20income.png)
 
