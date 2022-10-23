@@ -1,4 +1,4 @@
-# Project-Portfolio
+# Project Portfolio
 data science project portfolio
 # [Project 1 : BigData on the spread of COVID-19 in the world : Project overview](https://github.com/MusaMasango/BigData-on-the-spread-of-COVID-19-in-the-world)
 * Downloaded data from open sources,
