@@ -10,6 +10,8 @@ data science project portfolio
 
 ![covid cases](https://github.com/MusaMasango/BigData-on-the-spread-of-COVID-19-in-the-world/blob/main/pivot%20table.png)
 ![pivot table](https://github.com/MusaMasango/BigData-on-the-spread-of-COVID-19-in-the-world/blob/main/covid%20cases.png)
+![corr matrix](https://github.com/MusaMasango/BigData-on-the-spread-of-COVID-19-in-the-world/blob/main/correlation%20matrix.png)
+
 
 
 # [Project 2 : loan-prediction-machine-learning-project : Project overview](https://github.com/MusaMasango/loan-prediction-machine-learning-project)
