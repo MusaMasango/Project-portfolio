@@ -8,9 +8,9 @@ data science project portfolio
 * Built a forecast and analyzed the accuracy and adequacy of the obtained models.
 * Visualized the dynamics of COVID-19 infection spread on interactive maps
 
-![](/images/pivot table.png)
-![](/images/covid cases.png)
-![](/images/correlation matrix.png)
+![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/pivot%20table.png)
+![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/covid%20cases.png)
+![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/correlation%20matrix.png)
 
 
 
@@ -20,9 +20,9 @@ In finance, a loan is the lending of money by one or more individuals, organizat
  
 I was able to model the loan_status of the customers with a 83% accuracy after minimal tuning. This result however can be further improved with better data as well as other useful information.
 
-![](/images/bar graph.png)
-![](/images/correlation plot.png)
-![](/images/credit history.png)
-![](/images/loan amount.png)
+![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/bar%20graph.png)
+![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/correlation%20plot.png)
+![]([/images/](https://github.com/MusaMasango/Project-portfolio/blob/main/images/credit%20history.png)
+![]([/images/](https://github.com/MusaMasango/Project-portfolio/blob/main/images/loan%20amount.png)
 ![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/applicant%20income.png)
 
