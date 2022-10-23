@@ -8,6 +8,9 @@ data science project portfolio
 * Built a forecast and analyzed the accuracy and adequacy of the obtained models.
 * Visualized the dynamics of COVID-19 infection spread on interactive maps
 
+![covid cases](https://github.com/MusaMasango/BigData-on-the-spread-of-COVID-19-in-the-world/blob/main/pivot%20table.png)
+![pivot table](https://github.com/MusaMasango/BigData-on-the-spread-of-COVID-19-in-the-world/blob/main/covid%20cases.png)
+
 
 # [Project 2 : loan-prediction-machine-learning-project : Project overview](https://github.com/MusaMasango/loan-prediction-machine-learning-project)
 
@@ -19,3 +22,5 @@ I was able to model the loan_status of the customers with a 83% accuracy after m
 ![corr plot](https://github.com/MusaMasango/loan-prediction-machine-learning-project/blob/main/correlation%20plot.png)
 ![credit plot](https://github.com/MusaMasango/loan-prediction-machine-learning-project/blob/main/credit%20history.png)
 ![loan amount](https://github.com/MusaMasango/loan-prediction-machine-learning-project/blob/main/loan%20amount.png)
+![applicant income](https://github.com/MusaMasango/loan-prediction-machine-learning-project/blob/main/applicant%20income.png)
+
