@@ -14,3 +14,8 @@ data science project portfolio
 In finance, a loan is the lending of money by one or more individuals, organizations, or other entities to other individuals, organizations etc. The recipient (i.e., the borrower) incurs a debt and is usually liable to pay interest on that debt until it is repaid as well as to repay the principal amount borrowed. (wikipedia). The major aim of this project is to predict which of the customers will have their loan approved. This is important especially for the banks as they have to be sure that a particular customer meets the requirements for loan approval. 
  
 I was able to model the loan_status of the customers with a 83% accuracy after minimal tuning. This result however can be further improved with better data as well as other useful information.
+
+![bar graph](https://github.com/MusaMasango/loan-prediction-machine-learning-project/blob/main/bar%20graph.png)
+![corr plot](https://github.com/MusaMasango/loan-prediction-machine-learning-project/blob/main/correlation%20plot.png)
+![credit plot](https://github.com/MusaMasango/loan-prediction-machine-learning-project/blob/main/credit%20history.png)
+![loan amount](https://github.com/MusaMasango/loan-prediction-machine-learning-project/blob/main/loan%20amount.png)
