@@ -22,7 +22,7 @@ I was able to model the loan_status of the customers with a 83% accuracy after m
 
 ![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/bar%20graph.png)
 ![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/correlation%20plot.png)
-![]([/images/](https://github.com/MusaMasango/Project-portfolio/blob/main/images/credit%20history.png)
-![]([/images/](https://github.com/MusaMasango/Project-portfolio/blob/main/images/loan%20amount.png)
+![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/credit%20history.png)
+![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/loan%20amount.png)
 ![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/applicant%20income.png)
 
