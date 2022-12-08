@@ -32,8 +32,7 @@ I was able to model the loan_status of the customers with a 83% accuracy after m
 * Performed extract, transform and load using Tableau.
 * Plotted different types of graphs to showing the relationship between revenue, profit, sales and markets.
 * Built 2 different automated dashboards on Tableau (Revenue analysis and Profit analysis).
-* Built a forecast and analyzed the accuracy and adequacy of the obtained models.
-* Visualized the dynamics of COVID-19 infection spread on interactive maps
+* Determined the Top 5 customers and products based on revenue.
 
 ![profit trend](https://github.com/MusaMasango/Sales-Insights-Project/blob/main/Profit%20trend.jpg)
 ![revenue by year](https://github.com/MusaMasango/Sales-Insights-Project/blob/main/Revenue%20by%20year.jpg)
