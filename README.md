@@ -10,9 +10,6 @@ data science project portfolio
 
 ![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/pivot%20table.png)
 ![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/covid%20cases.png)
-![](https://github.com/MusaMasango/Project-portfolio/blob/main/images/correlation%20matrix.png)
-
-
 
 # [Project 2 : loan-prediction-machine-learning-project : Project overview](https://github.com/MusaMasango/loan-prediction-machine-learning-project)
 
