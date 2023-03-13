@@ -36,3 +36,17 @@ I was able to model the loan_status of the customers with a 83% accuracy after m
 
 ![profit trend](https://github.com/MusaMasango/Sales-Insights-Project/blob/main/Profit%20trend.jpg)
 ![revenue by year](https://github.com/MusaMasango/Sales-Insights-Project/blob/main/Revenue%20by%20year.jpg)
+
+# [Project 4 : credit-card-fraud-detection-project : Project overview](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project)
+
+In this machine learning project, we solve the problem of detecting credit card fraud transactions using machine numpy, scikit learn, and few other python libraries. We overcome the problem by creating a binary classifier and experimenting with various machine learning techniques to see which fits better.
+ 
+Through this project, I applied techniques to address the class imbalance issues and achieved an accuracy of more than 90%. The random forest model yields a very good performance as indicated by the model accuracy which was found to be 0.99990035.
+To address the issue of class imbalance problem, we used the oversampling technique, this was done by the SMOTE package imported from the imblearn module.
+
+ROC AUC of our models approaches towards 1. So, we can conclude that our classifier does a very good job in predicting whether a transcation is genuine or fraud.
+
+![bar graph](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/labels%20bar%20graph.png)
+![correlation matrix](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/correlation%20matrix.png)
+![model accuracy comparison](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/model%20accuracy%20comparison%20table.png)
+
