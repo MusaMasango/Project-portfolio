@@ -47,3 +47,9 @@ ROC AUC of our models approaches towards 1. So, we can conclude that our classif
 ![correlation matrix](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/correlation%20matrix.png)
 ![model accuracy comparison](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/model%20accuracy%20comparison%20table.png)
 
+
+
+![image 5](https://github.com/MusaMasango/Project-portfolio/blob/main/images/image%205.png)
+![image 9](https://github.com/MusaMasango/Project-portfolio/blob/main/images/image%209.png)
+![image 10](https://github.com/MusaMasango/Project-portfolio/blob/main/images/image%2010.png)
+![image 15](https://github.com/MusaMasango/Project-portfolio/blob/main/images/image%2015.png)
