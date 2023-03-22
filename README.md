@@ -47,7 +47,15 @@ ROC AUC of our models approaches towards 1. So, we can conclude that our classif
 ![correlation matrix](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/correlation%20matrix.png)
 ![model accuracy comparison](https://github.com/MusaMasango/Credit-Card-Fraud-Detection-Project/blob/main/model%20accuracy%20comparison%20table.png)
 
+# [Project 5 : Customer-Segmentation-Project : Project overview](https://github.com/MusaMasango/Customer-Segmentation-Project)
 
+In this python machine learning project, I built a clustering model using the kmeans algorithm applied on a mall customer dataset. This project aims to determine the types of customers (target customers) who can easily convert into loyal customers so that the marketing team can make an informed decision about their approach.
+
+The correlation matrix shows that there is a strong positive correlation between the CustomerID and the Annual Income given by a correlation coefficient of 0.98. In addition, there is a strong negative correlation between the Age and the Spending Score given by -0.33. This shows that older customers spend less compared to the younger customers. This makes sense intuitively since older customers earn less than the younger customers (correlation coefficient = -0.01), hence older customers are less likely to spend since they earn a small income compared to the younger customers who earn more.
+
+The results obtained from the model shows that, the age vs spending score (1-100) relation has the best average silhouette score of around 0.499739, however, when we consider the other relations, the average silhouette score decreased dramatically to around 0.100144 and 0.089018 respectively.
+
+Elbow method in selecting number of clusters doesn’t usually work because the error function is monotonically decreasing for all ks, thus it is advisable to use the silhoutte analysis instead.
 
 ![image 5](https://github.com/MusaMasango/Project-portfolio/blob/main/images/image%205.png)
 ![image 9](https://github.com/MusaMasango/Project-portfolio/blob/main/images/image%209.png)
