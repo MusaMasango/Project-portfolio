@@ -53,9 +53,7 @@ In this python machine learning project, I built a clustering model using the km
 
 The correlation matrix shows that there is a strong positive correlation between the CustomerID and the Annual Income given by a correlation coefficient of 0.98. In addition, there is a strong negative correlation between the Age and the Spending Score given by -0.33. This shows that older customers spend less compared to the younger customers. This makes sense intuitively since older customers earn less than the younger customers (correlation coefficient = -0.01), hence older customers are less likely to spend since they earn a small income compared to the younger customers who earn more.
 
-The results obtained from the model shows that, the age vs spending score (1-100) relation has the best average silhouette score of around 0.499739, however, when we consider the other relations, the average silhouette score decreased dramatically to around 0.100144 and 0.089018 respectively.
-
-Elbow method in selecting number of clusters doesn’t usually work because the error function is monotonically decreasing for all ks, thus it is advisable to use the silhoutte analysis instead.
+For clustering problems, we often choose the result that has the highest silhouette score, since it measures the seperation between the clusters. In general, the higher the score, the far apart the clusters are, which is often good since we do not want to have an overlapping within the clusters that might lead to incorrect grouping of data. In our case, we can see from the silhouette score table that the best relationship is between the Age and Spending Score (1-100) having an Silhouette score of 0.499739 when compared to the other relationships. Therefore, the marketing team of the mall should focus on this group when conducting customer segmentation.
 
 ![image 5](https://github.com/MusaMasango/Project-portfolio/blob/main/images/image%205.png)
 ![image 9](https://github.com/MusaMasango/Project-portfolio/blob/main/images/image%209.png)
